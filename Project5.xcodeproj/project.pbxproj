@@ -13,6 +13,7 @@
 		6582992C28688E1D00E04E9E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6582992A28688E1D00E04E9E /* Main.storyboard */; };
 		6582992E28688E1E00E04E9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6582992D28688E1E00E04E9E /* Assets.xcassets */; };
 		6582993128688E1E00E04E9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6582992F28688E1E00E04E9E /* LaunchScreen.storyboard */; };
+		658299392868919700E04E9E /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 658299382868919700E04E9E /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6582992D28688E1E00E04E9E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6582993028688E1E00E04E9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6582993228688E1E00E04E9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		658299382868919700E04E9E /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				6582992828688E1D00E04E9E /* ViewController.swift */,
 				6582992A28688E1D00E04E9E /* Main.storyboard */,
 				6582992D28688E1E00E04E9E /* Assets.xcassets */,
+				658299382868919700E04E9E /* start.txt */,
 				6582992F28688E1E00E04E9E /* LaunchScreen.storyboard */,
 				6582993228688E1E00E04E9E /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6582993128688E1E00E04E9E /* LaunchScreen.storyboard in Resources */,
+				658299392868919700E04E9E /* start.txt in Resources */,
 				6582992E28688E1E00E04E9E /* Assets.xcassets in Resources */,
 				6582992C28688E1D00E04E9E /* Main.storyboard in Resources */,
 			);
